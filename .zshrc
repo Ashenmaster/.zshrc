@@ -119,4 +119,3 @@ POWERLEVEL9K_RIGHT_PROMPT_ELEMENTS=(
 POWERLEVEL9K_PROMPT_ADD_NEWLINE=true
 # Load Nerd Fonts with Powerlevel9k theme for Zsh
 POWERLEVEL9K_MODE='nerdfont-complete'
-source ~/powerlevel9k/powerlevel9k.zsh-theme
