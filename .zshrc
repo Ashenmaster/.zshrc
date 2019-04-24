@@ -102,13 +102,6 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="mate ~/.zshrc"
 alias cidr2ip="~/cidr2ip"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-export PATH="/Users/chrisgray/Library/Python/2.7/bin:/usr/local/opt/postgresql@9.6/bin:$PATH"
-
-# The next line updates PATH for the Google Cloud SDK.
-if [ -f '/Users/chrisgray/Downloads/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/chrisgray/Downloads/google-cloud-sdk/path.zsh.inc'; fi
-
-# The next line enables shell command completion for gcloud.
-if [ -f '/Users/chrisgray/Downloads/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/chrisgray/Downloads/google-cloud-sdk/completion.zsh.inc'; fi
 
 POWERLEVEL9K_LEFT_PROMPT_ELEMENTS=(
 	dir
